@@ -1,0 +1,2 @@
+WordCount: 3 I love Python
+WordCount: 3 I love C
